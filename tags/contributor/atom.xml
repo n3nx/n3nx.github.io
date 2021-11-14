@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>N3N - contributor</title>
+	<link href="https://n3n.org/tags/contributor/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://n3n.org"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-05T00:00:00+00:00</updated>
+	<id>https://n3n.org/tags/contributor/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Contributor Guidelines</title>
+		<published>2021-09-21T00:00:00+00:00</published>
+		<updated>2021-10-05T00:00:00+00:00</updated>
+		<link href="https://n3n.org/foundation/contributing/" type="text/html"/>
+		<id>https://n3n.org/foundation/contributing/</id>
+		<content type="html">&lt;p&gt;The N3N division contributor guidelines is an invitation letter to all the people out there who believes in the power of technology through contribution, making lives better for everyone.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Hello Friend,&lt;&#x2F;p&gt;
+&lt;p&gt;You are here to contribute to this project right?&lt;&#x2F;p&gt;
+&lt;p&gt;Welcome aboard! This project is created by the team at the NCRYPTO Opensource Privacy and Security Norms division informally known as the &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&quot;&gt;N3N&lt;&#x2F;a&gt;. We&#x27;re glad you&#x27;re interested in contributing! We welcome contributions from people of all backgrounds who are interested in making great software with us.&lt;&#x2F;p&gt;
+&lt;p&gt;At N3N, our motto is Privacy, Independency, Transparency and Security. We envision to empower everyone to maintain their own privacy and security in a trivial way to live a hygienic digital life. To do this, we&#x27;re exploring and pushing the boundaries of new technologies, and sharing our learnings with the open source community. By being transparent about it, enables us to make you more independent in a way that preserves your rights to privacy while establishing your security on the digital space.&lt;&#x2F;p&gt;
+&lt;p&gt;If you have ideas for collaboration, email us at &lt;a href=&quot;mailto:we@n3n.org&quot;&gt;we@n3n.org&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Our heartfelt thanks,&lt;&#x2F;p&gt;
+&lt;p&gt;The N3N Authors&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;issues&quot;&gt;Issues&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;security-vulnerablity&quot;&gt;Security Vulnerablity&lt;&#x2F;h3&gt;
+&lt;p&gt;The X team at N3N and our community take security issues in our associated projects at first priority. We sincerely appreciate your toiling efforts to disclose your findings privately, and as a token of gratitude and your faith in us, we will make every effort to acknowledge your contributions, including and not limited to &lt;a href=&quot;https:&#x2F;&#x2F;x.n3n.org&quot;&gt;N3NX&lt;&#x2F;a&gt; hunter hall of fame.&lt;&#x2F;p&gt;
+&lt;p&gt;To report a security issue, email &lt;a href=&quot;mailto:security@n3n.org&quot;&gt;security@n3n.org&lt;&#x2F;a&gt; and include the word &amp;quot;SECURITY&amp;quot; in the subject line.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll endeavor to respond quickly, and will keep you updated throughout the process.&lt;&#x2F;p&gt;
+&lt;p&gt;Also at Knytx Labs, We&#x27;re hiring full-time, aptly skilled hackers to work with us! Check out our current job postings &lt;a href=&quot;https:&#x2F;&#x2F;knytx.com&#x2F;jobs&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;feature-requests&quot;&gt;Feature Requests&lt;&#x2F;h3&gt;
+&lt;p&gt;If you have ideas or how to improve our projects, you can suggest features by opening a GitHub issue. Make sure to include details about the feature or change, and describe any uses cases it would enable.&lt;&#x2F;p&gt;
+&lt;p&gt;Feature requests will be tagged as &lt;code&gt;enhancement&lt;&#x2F;code&gt; and their status will be updated in the comments of the issue.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;bugs&quot;&gt;Bugs&lt;&#x2F;h3&gt;
+&lt;p&gt;When reporting a bug or unexpected behaviour in a project, make sure your issue describes steps to reproduce the behaviour, including the platform you were using, what steps you took, and any error messages.&lt;&#x2F;p&gt;
+&lt;p&gt;Reproducible bugs will be tagged as &lt;code&gt;bug&lt;&#x2F;code&gt; and their status will be updated in the comments of the issue.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;wontfix&quot;&gt;Wontfix&lt;&#x2F;h3&gt;
+&lt;p&gt;Issues will be closed and tagged as &lt;code&gt;wontfix&lt;&#x2F;code&gt; if we decide that we do not wish to implement it, usually due to being misaligned with the project vision or out of scope. We will comment on the issue with more detailed reasoning.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contribution-workflow&quot;&gt;Contribution Workflow&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;open-issues&quot;&gt;Open Issues&lt;&#x2F;h3&gt;
+&lt;p&gt;If you&#x27;re ready to contribute, start by looking at our open issues tagged as &lt;a href=&quot;..&#x2F;..&#x2F;issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22&quot;&gt;&lt;code&gt;help wanted&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; or &lt;a href=&quot;..&#x2F;..&#x2F;issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22&quot;&gt;&lt;code&gt;good first issue&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;You can comment on the issue to let others know you&#x27;re interested in working on it or to ask questions.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;making-changes&quot;&gt;Making Changes&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fork the repository.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a new feature branch.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Make your changes. Ensure that there are no build errors by running the project with your changes locally.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Open a pull request with a name and description of what you did. You can read more about working with pull requests on GitHub &lt;a href=&quot;https:&#x2F;&#x2F;help.github.com&#x2F;en&#x2F;articles&#x2F;creating-a-pull-request-from-a-fork&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;A maintainer will review your pull request and may ask you to make changes.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;code-guidelines&quot;&gt;Code Guidelines&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;rust&quot;&gt;Rust&lt;&#x2F;h3&gt;
+&lt;p&gt;You can read about our standards and recommendations for working with Rust &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;n3n.org&#x2F;blob&#x2F;main&#x2F;rust-guidelines.md&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;&#x2F;h3&gt;
+&lt;p&gt;We recommend following &lt;a href=&quot;https:&#x2F;&#x2F;www.python.org&#x2F;dev&#x2F;peps&#x2F;pep-0008&#x2F;&quot;&gt;PEP8 conventions&lt;&#x2F;a&gt; when working with Python modules.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;javascript-typescript&quot;&gt;JavaScript &amp;amp; TypeScript&lt;&#x2F;h3&gt;
+&lt;p&gt;We use &lt;a href=&quot;https:&#x2F;&#x2F;prettier.io&#x2F;&quot;&gt;Prettier&lt;&#x2F;a&gt; with the default settings to auto-format our JavaScript and TypeScript code.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;licensing&quot;&gt;Licensing&lt;&#x2F;h2&gt;
+&lt;p&gt;Unless otherwise specified, all N3N open source projects shall comply with the Rust standard licensing model (MIT + Apache 2.0) and are thereby licensed under a dual license, allowing licensees to choose either MIT OR Apache-2.0 at their option.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contributor-terms&quot;&gt;Contributor Terms&lt;&#x2F;h2&gt;
+&lt;p&gt;Thank you for your interest in this N3N open source project. By providing a contribution (new or modified code, other input, feedback or suggestions etc.) you agree to these Contributor Terms.&lt;&#x2F;p&gt;
+&lt;p&gt;You confirm that each of your contributions has been created by you and that you are the copyright owner. You also confirm that you have the right to provide the contribution to us and that you do it under the Rust dual license model (MIT + Apache 2.0).&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to contribute something that is not your original creation, you may submit it to N3N separately from any contribution, including details of its source and of any license or other restriction (such as related patents, trademarks, agreements etc.)&lt;&#x2F;p&gt;
+&lt;p&gt;Please also note that our projects are released with a &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;contributing&#x2F;CODE_OF_CONDUCT.md&quot;&gt;Contributor Code of Conduct&lt;&#x2F;a&gt; to ensure that they are welcoming places for everyone to contribute. By participating in any of the N3N open source project, you agree to keep to the Contributor Code of Conduct.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

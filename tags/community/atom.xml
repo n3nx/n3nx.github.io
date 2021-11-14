@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>N3N - community</title>
+	<link href="https://n3n.org/tags/community/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://n3n.org"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-07T00:00:00+00:00</updated>
+	<id>https://n3n.org/tags/community/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Community Code of Conduct</title>
+		<published>2021-08-08T00:00:00+00:00</published>
+		<updated>2021-10-07T00:00:00+00:00</updated>
+		<link href="https://n3n.org/community/code-of-conduct/" type="text/html"/>
+		<id>https://n3n.org/community/code-of-conduct/</id>
+		<content type="html">&lt;p&gt;The N3N community code are the collection of 4-clause, easy to follow guidelines to always remember with a smile.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;All the N3N project follows the &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;coc&quot;&gt;N3N Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Instances of abusive, harassing, or any type of unacceptable behaviour may be reported by contacting the &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;code-of-conduct#contact&quot;&gt;N3N Discipline Committee&lt;&#x2F;a&gt; via &lt;a href=&quot;mailto:coc@n3n.org&quot;&gt;coc@n3n.org&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Members</title>
+		<published>2021-08-08T00:00:00+00:00</published>
+		<updated>2021-10-07T00:00:00+00:00</updated>
+		<link href="https://n3n.org/community/members/" type="text/html"/>
+		<id>https://n3n.org/community/members/</id>
+		<content type="html">&lt;p&gt;List of community members that support the cause of making software security more efficient and transparent.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;our-esteemed-members&quot;&gt;Our Esteemed Members&lt;&#x2F;h2&gt;
+&lt;p&gt;The people who made this initiative possible the most&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

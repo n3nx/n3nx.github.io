@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>N3N - philosophy</title>
+	<link href="https://n3n.org/tags/philosophy/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://n3n.org"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-07T00:00:00+00:00</updated>
+	<id>https://n3n.org/tags/philosophy/atom.xml</id>
+	<entry xml:lang="en">
+		<title>The N3N Philosophy</title>
+		<published>2021-10-07T00:00:00+00:00</published>
+		<updated>2021-10-07T00:00:00+00:00</updated>
+		<link href="https://n3n.org/foundation/philosophy/" type="text/html"/>
+		<id>https://n3n.org/foundation/philosophy/</id>
+		<content type="html">&lt;p&gt;Philosophy is the soul of an organization, ours is just a simple and kind one.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;proverbs&quot;&gt;Proverbs&lt;&#x2F;h2&gt;
+&lt;p&gt;Few proverbs to keep in your mind always&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do your code once, See your code twice, Refactor your code thrice.&lt;&#x2F;li&gt;
+&lt;li&gt;Simple makes your life ample.&lt;&#x2F;li&gt;
+&lt;li&gt;Efficient and fast software gives you more time to do things you like the most.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

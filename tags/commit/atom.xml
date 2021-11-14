@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>N3N - commit</title>
+	<link href="https://n3n.org/tags/commit/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://n3n.org"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-25T00:00:00+00:00</updated>
+	<id>https://n3n.org/tags/commit/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Commit Style Guide</title>
+		<published>2021-10-20T00:00:00+00:00</published>
+		<updated>2021-10-25T00:00:00+00:00</updated>
+		<link href="https://n3n.org/foundation/commit-style-guide/" type="text/html"/>
+		<id>https://n3n.org/foundation/commit-style-guide/</id>
+		<content type="html">&lt;p&gt;This style guide is the collection of precise rulesets that makes reviewing the Git commit messages and project history easier for everyone.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;We encourage everyone from veterans to newcomers to follow through and read this guide before proceeding to contribute in any of the N3N project.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;commit-messages&quot;&gt;Commit Messages&lt;&#x2F;h2&gt;
+&lt;p&gt;This message structure is inspired from the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits&lt;&#x2F;a&gt; format. General &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#examples&quot;&gt;examples&lt;&#x2F;a&gt; for commit writing and &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#specifications&quot;&gt;specifications&lt;&#x2F;a&gt; are presented in next section.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;message-structure&quot;&gt;Message Structure&lt;&#x2F;h3&gt;
+&lt;p&gt;This message structure contains three relevant parts:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-message-header&quot;&gt;Commit message header&lt;&#x2F;a&gt;: the first line of any commit, mandatory for all projects.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-message-body&quot;&gt;Commit message body&lt;&#x2F;a&gt;: the description of the commit, necessary when there are lot of unrelated changes in a particular commit.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-message-footer&quot;&gt;Commit message footer&lt;&#x2F;a&gt;: the footer of the commit, generally contains the signer&#x27;s name and reference tags&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;&amp;lt;type&amp;gt;(scope): &amp;lt;description&amp;gt; [optional issue tags]
+&amp;lt;BLANK LINE&amp;gt;
+&amp;lt;optional body&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+&amp;lt;optional footer(s)&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;commit-message-header&quot;&gt;Commit Message Header&lt;&#x2F;h3&gt;
+&lt;p&gt;Comit&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-types&quot;&gt;&lt;strong&gt;type&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;: commit types defines the kind of the commit. This helps in classification when generating &lt;code&gt;CHANGELOG.md&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-scope&quot;&gt;&lt;strong&gt;scope&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;: commit scope names the parent folder in which the subjected file for changes is contained.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-summary&quot;&gt;&lt;strong&gt;summary&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;: commit summary briefs detail about the commit changes in general. Should be in present tense, non-capitalized and no period at the end.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#commit-issue-tag&quot;&gt;&lt;strong&gt;issue tag&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;: commit issue tags refers to the issue number from the repository which makes it easy to check its status. These can be in multiple numbers.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;&amp;lt;type&amp;gt;(&amp;lt;scope&amp;gt;): &amp;lt;short summary&amp;gt; [&amp;lt;issue tags&amp;gt;]
+  │       │             │             │
+  │       │             │             └─⫸ Issue tags can be in multiple numbers
+  │       │             │
+  │       │             └─⫸ Summary in present tense. Not capitalized. No period at the end.
+  │       │
+  │       └─⫸ Commit Scope: containing folder of the file that needs to be changed. This is mandatory
+  │
+  └─⫸ Commit Type: new|fix|doc|imp|upd|fmt|chk|ext
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Below this paragraph, all the different types have been explained with examples to get the gist of how to write better commits.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;commit-types&quot;&gt;Commit Types&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;fix&lt;&#x2F;strong&gt;: a commit of type &lt;code&gt;fix&lt;&#x2F;code&gt; patches a bug in your codebase (this correlates with &lt;a href=&quot;http:&#x2F;&#x2F;semver.org&#x2F;#summary&quot;&gt;PATCH&lt;&#x2F;a&gt; in Semantic Versioning).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;new&lt;&#x2F;strong&gt;: a commit of type &lt;code&gt;new&lt;&#x2F;code&gt; introduces a new feature to the codebase (this correlates with &lt;a href=&quot;http:&#x2F;&#x2F;semver.org&#x2F;#summary&quot;&gt;MINOR&lt;&#x2F;a&gt; in Semantic Versioning).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;BREAKING CHANGE&lt;&#x2F;strong&gt;: a commit that has a footer &lt;code&gt;BREAKING CHANGE:&lt;&#x2F;code&gt;, or appends a &lt;code&gt;!&lt;&#x2F;code&gt; after the type&#x2F;scope, introduces a breaking API change (correlating with &lt;a href=&quot;http:&#x2F;&#x2F;semver.org&#x2F;#summary&quot;&gt;MAJOR&lt;&#x2F;a&gt; in Semantic Versioning). A BREAKING CHANGE can be part of commits of any &lt;em&gt;type&lt;&#x2F;em&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;doc&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;doc&lt;&#x2F;code&gt; identifies change in documentation of any part of the codebase.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;fmt&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;fmt&lt;&#x2F;code&gt; identifies formatting or styling change of the program (no changes in codebase when formatting is done).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;upd&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;upd&lt;&#x2F;code&gt; refactors production codebase (no changes in bugfix nor adds new features).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;imp&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;imp&lt;&#x2F;code&gt; improves performance of existing features and applies optimizations in codebase.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;chk&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;chk&lt;&#x2F;code&gt; adds missing test checks or fixes existing unit tests.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;ext&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;ext&lt;&#x2F;code&gt; identifies extra changes that affect helper scripts or external dependencies.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;bld&lt;&#x2F;em&gt;: a commit of type &lt;code&gt;bld&lt;&#x2F;code&gt; changes to CI system, configurations, files and its scripts.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;For example, below you can see the variety of types that are used to classify commit actions.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;ext(yarn): add package.json with necessary dev deps
+fmt(mizui): prettify all sass files inside mizui
+upd(core)!: rename classes `hidden` and `shown` to `hide` and `show`
+fix(defaults): fix content styling with formatting of other objects
+imp(comps): integrate muse in cards along with tag components
+new(comps): add mizui styled checkbox component
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;These are self explainatory commits, giving you an overview of actions occurring here.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;commit-scope&quot;&gt;Commit Scope&lt;&#x2F;h4&gt;
+&lt;p&gt;The scope, in general should be the name of the parent directory the file subject to changes is contained within. This implies to show the changes the file belonging to its location (as perceived by the person reading the changelog generated from commit messages).&lt;&#x2F;p&gt;
+&lt;p&gt;For example, below you can see underlined scopes that defines the commit location.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;    ________
+fix(defaults): fix content styling with formatting of other objects
+    _____
+imp(comps): integrate muse in cards along with tag components
+    _____
+imp(mizui): update `font-family` vars with change in few things down the road
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;To elaborate,&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;defaults defines the directory &lt;code&gt;defaults&lt;&#x2F;code&gt; in which changes were made&lt;&#x2F;li&gt;
+&lt;li&gt;comps defines the directory &lt;code&gt;comps&lt;&#x2F;code&gt; where the changes in components were made&lt;&#x2F;li&gt;
+&lt;li&gt;mizui is the project name which refers to whole scope of project, referring to multiple changes made in various scopes of the codebase.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;commit-summary&quot;&gt;Commit Summary&lt;&#x2F;h4&gt;
+&lt;p&gt;Use the summary field to provide a succinct description of the change:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;use the imperative, present tense: &amp;quot;change&amp;quot; not &amp;quot;changed&amp;quot; nor &amp;quot;changes&amp;quot;&lt;&#x2F;li&gt;
+&lt;li&gt;don&#x27;t capitalize the first letter&lt;&#x2F;li&gt;
+&lt;li&gt;no dot (.) at the end&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;For example, below you can see a sample commit that summarizes the details of changes made.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;imp(app): add user specific application components
+fix(defaults): focus outline showing at unprecedented viewports
+imp(comps): integrate muse in cards along with tag components
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Note that, the sentences are descriptive on their own having first words in present tense, none of the words are capitalized and no period is used in end.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;commit-issue-tag&quot;&gt;Commit Issue Tag&lt;&#x2F;h4&gt;
+&lt;p&gt;Use commit tags to refer the particular issue that was resolved using the changes in this commit. Do note that:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;For multiple commit tags, references should be inside the footer&lt;&#x2F;li&gt;
+&lt;li&gt;Issue tags should be in format &lt;code&gt;[#&amp;lt;issue number&amp;gt;]&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;commit-message-body&quot;&gt;Commit Message Body&lt;&#x2F;h3&gt;
+&lt;p&gt;Just as in the summary, use the imperative, present tense: &amp;quot;fix&amp;quot; not &amp;quot;fixed&amp;quot; nor &amp;quot;fixes&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Explain the motivation for the change in the commit message body. This commit message should explain why you are making the change. You can include a comparison of the previous behavior with the new behavior in order to illustrate the impact of the change.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;commit-message-footer&quot;&gt;Commit Message Footer&lt;&#x2F;h3&gt;
+&lt;p&gt;The footer can contain information about breaking changes and deprecations and is also the place to reference GitHub issues, Jira tickets, and other PRs that this commit closes or is related to. For example:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;BREAKING CHANGE: &amp;lt;breaking change summary&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+&amp;lt;breaking change description + migration instructions&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+Fixes #&amp;lt;issue number&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;or&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;DEPRECATED: &amp;lt;what is deprecated&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+&amp;lt;deprecation description + recommended update path&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+&amp;lt;BLANK LINE&amp;gt;
+Closes #&amp;lt;pr number&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Breaking Change section should start with the phrase &amp;quot;BREAKING CHANGE: &amp;quot; followed by a summary of the breaking change, a blank line, and a detailed description of the breaking change that also includes migration instructions.&lt;&#x2F;p&gt;
+&lt;p&gt;Similarly, a Deprecation section should start with &amp;quot;DEPRECATED: &amp;quot; followed by a short description of what is deprecated, a blank line, and a detailed description of the deprecation that also mentions the recommended update path.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;revert-commits&quot;&gt;Revert Commits&lt;&#x2F;h3&gt;
+&lt;p&gt;If the commit reverts a previous commit, it should begin with revert: , followed by the header of the reverted commit.&lt;&#x2F;p&gt;
+&lt;p&gt;The content of the commit message body should contain:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;information about the SHA of the commit being reverted in the following format: This reverts commit &lt;code&gt;&amp;lt;SHA&amp;gt;&lt;&#x2F;code&gt;,&lt;&#x2F;li&gt;
+&lt;li&gt;a clear description of the reason for reverting the commit message.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;specifications&quot;&gt;Specifications&lt;&#x2F;h2&gt;
+&lt;p&gt;The key words &amp;quot;MUST&amp;quot;, &amp;quot;MUST NOT&amp;quot;, &amp;quot;REQUIRED&amp;quot;, &amp;quot;SHALL&amp;quot;, &amp;quot;SHALL NOT&amp;quot;, &amp;quot;SHOULD&amp;quot;, &amp;quot;SHOULD NOT&amp;quot;, &amp;quot;RECOMMENDED&amp;quot;, &amp;quot;MAY&amp;quot;, and &amp;quot;OPTIONAL&amp;quot; in this document are to be interpreted as described in RFC 2119.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Commits MUST be prefixed with a type, which consists of a noun, feat, fix, etc., followed by the OPTIONAL scope, OPTIONAL !, and REQUIRED terminal colon and space.&lt;&#x2F;li&gt;
+&lt;li&gt;The type feat MUST be used when a commit adds a new feature to your application or library.&lt;&#x2F;li&gt;
+&lt;li&gt;The type fix MUST be used when a commit represents a bug fix for your application.&lt;&#x2F;li&gt;
+&lt;li&gt;A scope MAY be provided after a type. A scope MUST consist of a noun describing a section of the codebase surrounded by parenthesis, e.g., fix(parser):&lt;&#x2F;li&gt;
+&lt;li&gt;A description MUST immediately follow the colon and space after the type&#x2F;scope prefix. The description is a short summary of the code changes, e.g., fix: array parsing issue when multiple spaces were contained in string.&lt;&#x2F;li&gt;
+&lt;li&gt;A longer commit body MAY be provided after the short description, providing additional contextual information about the code changes. The body MUST begin one blank line after the description.&lt;&#x2F;li&gt;
+&lt;li&gt;A commit body is free-form and MAY consist of any number of newline separated paragraphs.&lt;&#x2F;li&gt;
+&lt;li&gt;One or more footers MAY be provided one blank line after the body. Each footer MUST consist of a word token, followed by either a &lt;code&gt;:&amp;lt;space&amp;gt;&lt;&#x2F;code&gt; or &lt;code&gt;&amp;lt;space&amp;gt;#&lt;&#x2F;code&gt; separator, followed by a string value (this is inspired by the git trailer convention).&lt;&#x2F;li&gt;
+&lt;li&gt;A footer’s token MUST use - in place of whitespace characters, e.g., Acked-by (this helps differentiate the footer section from a multi-paragraph body). An exception is made for BREAKING CHANGE, which MAY also be used as a token.&lt;&#x2F;li&gt;
+&lt;li&gt;A footer’s value MAY contain spaces and newlines, and parsing MUST terminate when the next valid footer token&#x2F;separator pair is observed.&lt;&#x2F;li&gt;
+&lt;li&gt;Breaking changes MUST be indicated in the type&#x2F;scope prefix of a commit, or as an entry in the footer.&lt;&#x2F;li&gt;
+&lt;li&gt;If included as a footer, a breaking change MUST consist of the uppercase text BREAKING CHANGE, followed by a colon, space, and description, e.g., BREAKING CHANGE: environment variables now take precedence over config files.&lt;&#x2F;li&gt;
+&lt;li&gt;If included in the type&#x2F;scope prefix, breaking changes MUST be indicated by a ! immediately before the :. If ! is used, BREAKING CHANGE: MAY be omitted from the footer section, and the commit description SHALL be used to describe the breaking change.&lt;&#x2F;li&gt;
+&lt;li&gt;Types other than feat and fix MAY be used in your commit messages, e.g., docs: updated ref docs.&lt;&#x2F;li&gt;
+&lt;li&gt;The units of information that make up Conventional Commits MUST NOT be treated as case sensitive by implementors, with the exception of BREAKING CHANGE which MUST be uppercase.&lt;&#x2F;li&gt;
+&lt;li&gt;BREAKING-CHANGE MUST be synonymous with BREAKING CHANGE, when used as a token in a footer.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+	</entry>
+</feed>
