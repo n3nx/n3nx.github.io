@@ -55,12 +55,28 @@
         <loc>https://n3n.org/news/</loc>
     </url>
     <url>
-        <loc>https://n3n.org/news/first/</loc>
-        <lastmod>2021-08-08</lastmod>
+        <loc>https://n3n.org/news/mizui-0-3-0/</loc>
+        <lastmod>2021-11-23</lastmod>
     </url>
     <url>
-        <loc>https://n3n.org/news/second/</loc>
-        <lastmod>2021-08-09</lastmod>
+        <loc>https://n3n.org/news/mizui-0-3-1/</loc>
+        <lastmod>2021-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/news/mizui-0-3-2/</loc>
+        <lastmod>2021-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/news/opencl-rs-0-1-0/</loc>
+        <lastmod>2021-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/news/opencl-rs-0-1-1/</loc>
+        <lastmod>2021-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/news/opencl-rs-0-1-2/</loc>
+        <lastmod>2021-11-23</lastmod>
     </url>
     <url>
         <loc>https://n3n.org/projects/</loc>
@@ -70,6 +86,9 @@
     </url>
     <url>
         <loc>https://n3n.org/tags/about/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/api/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/coc/</loc>
@@ -87,10 +106,13 @@
         <loc>https://n3n.org/tags/contributor/</loc>
     </url>
     <url>
-        <loc>https://n3n.org/tags/cybersec/</loc>
+        <loc>https://n3n.org/tags/foundation/</loc>
     </url>
     <url>
-        <loc>https://n3n.org/tags/foundation/</loc>
+        <loc>https://n3n.org/tags/gpgpu/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/gpu/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/guidelines/</loc>
@@ -102,12 +124,27 @@
         <loc>https://n3n.org/tags/members/</loc>
     </url>
     <url>
-        <loc>https://n3n.org/tags/n3n/</loc>
-    </url>
-    <url>
-        <loc>https://n3n.org/tags/news/</loc>
+        <loc>https://n3n.org/tags/opencl/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/philosophy/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/project/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/release/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/sass/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/style/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/ui/</loc>
     </url>
 </urlset>

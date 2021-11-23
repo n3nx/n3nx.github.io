@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>N3N - 🗞 Latest News</title>
-	<link href="https://n3n.org/news/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://n3n.org/news/"/>
+	<title>N3N - rust</title>
+	<link href="https://n3n.org/tags/rust/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://n3n.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-11-23T00:00:00+00:00</updated>
-	<id>https://n3n.org/news/atom.xml</id>
+	<id>https://n3n.org/tags/rust/atom.xml</id>
 	<entry xml:lang="en">
 		<title>opencl-rs 0.1.2</title>
 		<published>2021-11-23T00:00:00+00:00</published>
@@ -133,113 +133,6 @@
 &lt;h2 id=&quot;styling&quot;&gt;Styling&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;api:&lt;&#x2F;em&gt; Format api image, memory and pipe files and add docker tests (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;opencl-rs-0-1-0&#x2F;8d57ea561677e27f032152ac56318425da3a8121&quot;&gt;8d57ea5&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>mizui 0.3.2</title>
-		<published>2021-10-25T00:00:00+00:00</published>
-		<updated>2021-11-23T00:00:00+00:00</updated>
-		<link href="https://n3n.org/news/mizui-0-3-2/" type="text/html"/>
-		<id>https://n3n.org/news/mizui-0-3-2/</id>
-		<content type="html">&lt;p&gt;N3NX mizui v0.3.2 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;mizui&#x2F;releases&#x2F;tag&#x2F;v0.3.2&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;More information for this update can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;mizui&#x2F;releases&#x2F;tag&#x2F;v0.3.2&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; New typography font classes for many font weights and styles (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;5fb4edf4b67e1d0902396ef93d76a0fefc27c1f1&quot;&gt;5fb4edf&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Add strong and em tags to general typography class (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;ce1895f59c873b5826dfd2014cffe425b5f3e5d2&quot;&gt;ce1895f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Optimize display classes for  property one-liners (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;e3a468025b49c3b7a4989b20fb8317ab8f1ab986&quot;&gt;e3a4680&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Integrate serif class into typefaces (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;a7050634ad11ca08f20da68cf3f7a05f0f55a6b3&quot;&gt;a705063&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;refactoring-updates&quot;&gt;Refactoring Updates&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Remove obsolete bootstrap code and old tooltip design (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;9693245a3128b53b90881c3a16627754cde7e836&quot;&gt;9693245&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Move misc utilities from other files to (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;e53560b35f706945ae682a3d57fc09b01deecb14&quot;&gt;e53560b&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Move  as  to core (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-2&#x2F;d8fc7a35a875a1da48f344d35bb242a78b101164&quot;&gt;d8fc7a3&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>mizui 0.3.1</title>
-		<published>2021-10-24T00:00:00+00:00</published>
-		<updated>2021-11-23T00:00:00+00:00</updated>
-		<link href="https://n3n.org/news/mizui-0-3-1/" type="text/html"/>
-		<id>https://n3n.org/news/mizui-0-3-1/</id>
-		<content type="html">&lt;p&gt;N3NX mizui v0.3.1 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;mizui&#x2F;releases&#x2F;tag&#x2F;v0.3.1&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;More information for this update can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;mizui&#x2F;releases&#x2F;tag&#x2F;v0.3.1&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Fix badge rendering with muse coloring (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-1&#x2F;89d6482c7559126bc1ca68cd2b628035cbb25d15&quot;&gt;89d6482&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Refactor alert to optimize close button globally (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-1&#x2F;47ef0bf2899a58b29ba43f10cb8aa6cc6d3f8cf6&quot;&gt;47ef0bf&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;refactoring-updates&quot;&gt;Refactoring Updates&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Comment unused variables, to be deprecated in future versions (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-1&#x2F;4f6c0ce5fd501adeb970aa271c1096e050089235&quot;&gt;4f6c0ce&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>mizui 0.3.0</title>
-		<published>2021-10-20T00:00:00+00:00</published>
-		<updated>2021-11-23T00:00:00+00:00</updated>
-		<link href="https://n3n.org/news/mizui-0-3-0/" type="text/html"/>
-		<id>https://n3n.org/news/mizui-0-3-0/</id>
-		<content type="html">&lt;p&gt;N3NX mizui v0.3.0 brings new changes with this update, starting with open source support.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;More information for this update can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;mizui&#x2F;releases&#x2F;tag&#x2F;v0.3.0&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Fix &lt;code&gt;display&lt;&#x2F;code&gt; weight and &lt;code&gt;letter-spacing&lt;&#x2F;code&gt; in card heading (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;858821f241326126fa2ff7bf9dade4e04b9d1f4e&quot;&gt;858821f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Fix link color for good hover contrast (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;694058e5cb75ba2f247083fff73dea5c8f732144&quot;&gt;694058e&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Increase tags spacing for mobile devices (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;02fa0dfad8f7266ba8eb3a3db8bb2cc5579ebc7a&quot;&gt;02fa0df&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Fix low contrast borders of cards with new auto margin utils (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;35642762572fc71e00b4ef2e250ffc1de4d2f968&quot;&gt;3564276&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Fix container grid xs screen size to 90vw with minor tweaks (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;19970e10649296444aefcaf4e3320b6e3b01ee34&quot;&gt;19970e1&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Fix xs container width to 300px (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;a6e6af3e0155f3938022125900c650b10530e270&quot;&gt;a6e6af3&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Fix navbar &lt;code&gt;padding&lt;&#x2F;code&gt; and height issues with 4k viewport (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;651a28ad1da5856179918e55dc600f024c3dc609&quot;&gt;651a28a&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Focus outline showing at unprecedented viewports (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;0264acb3fca5a9200dcd0f8450708ed25ba87cc3&quot;&gt;0264acb&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Fix content styling with formatting of other objects (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;db73a3131aed3cf32ba8a214dddc0005527b4182&quot;&gt;db73a31&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;prefabs:&lt;&#x2F;em&gt; Change tag from &lt;code&gt;h4&lt;&#x2F;code&gt; to &lt;code&gt;h3&lt;&#x2F;code&gt; for a11y support (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;513e31e9fb019b141b0ab53d27f6b8c9c1a5938d&quot;&gt;513e31e&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;cliff:&lt;&#x2F;em&gt; Add N3N cliff config file for changelog generation (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;1b016418d4cafc1b60d37e833300a326436133e6&quot;&gt;1b01641&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Add alerts with change in mizui unified saturation engine (muse) (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;25e907363db51fdca95e46c8eb32936989b787af&quot;&gt;25e9073&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Add responsive navigation bar with hamburgers (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;46dc763850af04c4babd85cc10932a3b76fb4cfc&quot;&gt;46dc763&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Add cards from mizui v0.2.5 with spacing classes (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;42892abe7ff4af3de9f6fe9637a8d17b127ba2ca&quot;&gt;42892ab&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Add &lt;code&gt;dropdown&lt;&#x2F;code&gt; class with mobile viewport support (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;684f2a00f340b07148bb401c27fa5a916f53d84b&quot;&gt;684f2a0&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Add outline and arrow button styles with faster transitions (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;83df8973bf0760843030289833d3e4740105becc&quot;&gt;83df897&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Add rfs mixin from bootstrap along with many small changes (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;a0328e74a5b1279e8e497b6dea14c74042f69100&quot;&gt;a0328e7&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Add typeface classes for global content with navbar gap fix (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;199b07e7ac51e57871ba3b2a84a7ec8544b1c351&quot;&gt;199b07e&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Add content style for pages to improve readability (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;b0b4a09ba9dad0fe93e477782e68c76c22625de2&quot;&gt;b0b4a09&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;prefabs:&lt;&#x2F;em&gt; Add footer prefabs with footer comps (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;94e882880ad4da72bad267e361b56a26cf745d56&quot;&gt;94e8828&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;prefabs:&lt;&#x2F;em&gt; Add 404 site prefabs for error pages (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;e2c5e9864753e1efee9198d3830e3a412b260b6c&quot;&gt;e2c5e98&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;prefabs:&lt;&#x2F;em&gt; Add jumbotron prefabs including its global vars (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;93119919c7ed7768432652234dd218482234b90c&quot;&gt;9311991&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;app:&lt;&#x2F;em&gt; Add user specific application components (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;7ee1d3f3fd61bfc7a0e8429b01de71da3217dbe3&quot;&gt;7ee1d3f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Integrate muse in cards along with tag components (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;6e9db8436a9631f85906dfaf8ce04f3de3e1e027&quot;&gt;6e9db84&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Update navbar for muse and add navbar dropdowns with a11y fix for cards (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;502b25cd3c73f9ebfb49e13637606c6f2885e9cd&quot;&gt;502b25c&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Switch to new color palette along with little refactorization (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;75aaee89a2f27213516a5da9635cd50ed5d363eb&quot;&gt;75aaee8&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Add muse default color config to global variables (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;b76da406bad76586c0f108b592883f13c4030653&quot;&gt;b76da40&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Optimize mizui grid system for lighter binary sizes (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;a6031410fc5ac32b229df6635a240b435ff6ac2b&quot;&gt;a603141&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;core:&lt;&#x2F;em&gt; Update &lt;code&gt;padding&lt;&#x2F;code&gt; utilities for responsive viewports (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;202cd4401f33b3a62907380ac3940034e2e94032&quot;&gt;202cd44&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;defaults:&lt;&#x2F;em&gt; Make shortened &lt;code&gt;font-family&lt;&#x2F;code&gt; variable names (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;d1c015fce63aca7724c952324b66cccf6ab134ed&quot;&gt;d1c015f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;mizui:&lt;&#x2F;em&gt; Update &lt;code&gt;font-family&lt;&#x2F;code&gt; vars with change in few things down the road (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;69f039f3b56af2a7ce7c27db742cb2c0e820ccf6&quot;&gt;69f039f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;prefabs:&lt;&#x2F;em&gt; Change to ordered headings of hero class in jumbo (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;9879d65f2c82a0838d296e85d5bbfe50602a0a7c&quot;&gt;9879d65&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;refactoring-updates&quot;&gt;Refactoring Updates&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;app:&lt;&#x2F;em&gt; Delete app directory in favor of app specific gitmodules (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;fc8166454402b35bd5d6798f0c0b94536ed1fca0&quot;&gt;fc81664&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;comps:&lt;&#x2F;em&gt; Refactor comps in favor of global vars with addition of close button (&lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;news&#x2F;mizui-0-3-0&#x2F;2c6764d79365a6608d8208fbe002871fcfc67a66&quot;&gt;2c6764d&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
