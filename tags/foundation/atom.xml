@@ -16,7 +16,7 @@
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;p&gt;We encourage everyone from veterans to newcomers to follow through and read this guide before proceeding to contribute in any of the N3N project.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;commit-messages&quot;&gt;Commit Messages&lt;&#x2F;h2&gt;
-&lt;p&gt;This message structure is inspired from the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits&lt;&#x2F;a&gt; format. General &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#examples&quot;&gt;examples&lt;&#x2F;a&gt; for commit writing and &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#specifications&quot;&gt;specifications&lt;&#x2F;a&gt; are presented in next section.&lt;&#x2F;p&gt;
+&lt;p&gt;This message structure is inspired from the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits&lt;&#x2F;a&gt; format. General for commit writing and &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;commit-style-guide&#x2F;#specifications&quot;&gt;specifications&lt;&#x2F;a&gt; are presented in next section.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;message-structure&quot;&gt;Message Structure&lt;&#x2F;h3&gt;
 &lt;p&gt;This message structure contains three relevant parts:&lt;&#x2F;p&gt;
 &lt;ol&gt;
@@ -291,7 +291,7 @@ Closes #&amp;lt;pr number&amp;gt;
 &lt;p&gt;Thank you for your interest in this N3N open source project. By providing a contribution (new or modified code, other input, feedback or suggestions etc.) you agree to these Contributor Terms.&lt;&#x2F;p&gt;
 &lt;p&gt;You confirm that each of your contributions has been created by you and that you are the copyright owner. You also confirm that you have the right to provide the contribution to us and that you do it under the Rust dual license model (MIT + Apache 2.0).&lt;&#x2F;p&gt;
 &lt;p&gt;If you want to contribute something that is not your original creation, you may submit it to N3N separately from any contribution, including details of its source and of any license or other restriction (such as related patents, trademarks, agreements etc.)&lt;&#x2F;p&gt;
-&lt;p&gt;Please also note that our projects are released with a &lt;a href=&quot;https:&#x2F;&#x2F;n3n.org&#x2F;foundation&#x2F;contributing&#x2F;CODE_OF_CONDUCT.md&quot;&gt;Contributor Code of Conduct&lt;&#x2F;a&gt; to ensure that they are welcoming places for everyone to contribute. By participating in any of the N3N open source project, you agree to keep to the Contributor Code of Conduct.&lt;&#x2F;p&gt;
+&lt;p&gt;Please also note that our projects are released with a &lt;a href=&quot;CODE_OF_CONDUCT.md&quot;&gt;Contributor Code of Conduct&lt;&#x2F;a&gt; to ensure that they are welcoming places for everyone to contribute. By participating in any of the N3N open source project, you agree to keep to the Contributor Code of Conduct.&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
