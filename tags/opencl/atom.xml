@@ -1,139 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>N3N - opencl</title>
-	<link href="https://n3n.org/tags/opencl/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://n3n.org"/>
-	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-11-23T00:00:00+00:00</updated>
-	<id>https://n3n.org/tags/opencl/atom.xml</id>
-	<entry xml:lang="en">
-		<title>opencl-rs 0.1.2</title>
-		<published>2021-11-23T00:00:00+00:00</published>
-		<updated>2021-11-23T00:00:00+00:00</updated>
-		<link href="https://n3n.org/news/opencl-rs-0-1-2/" type="text/html"/>
-		<id>https://n3n.org/news/opencl-rs-0-1-2/</id>
-		<content type="html">&lt;p&gt;N3NX opencl-rs v0.1.2 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.2&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;More information for this update can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.2&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add error code description for every api function [#7] (&lt;a href=&quot;4febe345a3b2923412d797d08ebb9a6d1570b937&quot;&gt;4febe34&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Impl &lt;code&gt;From&lt;&#x2F;code&gt; trait to convert &lt;code&gt;Status&lt;&#x2F;code&gt; and &lt;code&gt;StatusCode&lt;&#x2F;code&gt; (&lt;a href=&quot;cde5937fd245c908a7993711933c3d45001fcd77&quot;&gt;cde5937&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Improve status code errors to be more descriptive (&lt;a href=&quot;9ebe1f6a692e4bf89c82d23924d4ddb545444e82&quot;&gt;9ebe1f6&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Update error names and description to be more specific (&lt;a href=&quot;5b5239f3d35c730a3e3845ae76742b36fd4d85a0&quot;&gt;5b5239f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>opencl-rs 0.1.1</title>
-		<published>2021-11-21T00:00:00+00:00</published>
-		<updated>2021-11-23T00:00:00+00:00</updated>
-		<link href="https://n3n.org/news/opencl-rs-0-1-1/" type="text/html"/>
-		<id>https://n3n.org/news/opencl-rs-0-1-1/</id>
-		<content type="html">&lt;p&gt;N3NX opencl-rs v0.1.1 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.1&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;More information for this update can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.1&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Fix &lt;code&gt;CL_INVALID_VALUE&lt;&#x2F;code&gt; error at get_count [#6] (&lt;a href=&quot;35ed6dcde43873ef146572aadaf7425a4c0a02d0&quot;&gt;35ed6dc&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Fix access to multiple bitfield combinations [#10] (&lt;a href=&quot;590bd6d8326a4f0173cc645da8524ced5015d2fe&quot;&gt;590bd6d&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-rs:&lt;&#x2F;em&gt; Update license.html (&lt;a href=&quot;2d7f2b0dd487359f9d784f9c95914af7a0b94a1c&quot;&gt;2d7f2b0&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Improve error handling with thiserror derivations (&lt;a href=&quot;bdf3a66a2f66f0b450236ae80c5b6ce0f407da42&quot;&gt;bdf3a66&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Generalize property list gneration for every api [#8] (&lt;a href=&quot;fb5fed5d8d783793ee5f1af7db76cd3b3806349a&quot;&gt;fb5fed5&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;refactoring-updates&quot;&gt;Refactoring Updates&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Classify data objects to separate files for brevity (&lt;a href=&quot;8bb0e27bab0c96f234251e62a5d8f947dfbb3c24&quot;&gt;8bb0e27&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;test-checks&quot;&gt;Test Checks&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Fix test case &lt;code&gt;CommandQueueProperties&lt;&#x2F;code&gt; null pointer (&lt;a href=&quot;bf947b6e142ba731cfc04370d2f32b04465db02c&quot;&gt;bf947b6&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-rs:&lt;&#x2F;em&gt; Fix test cases for compatiblity with ci builds (&lt;a href=&quot;b1f309f9b7f6f48c547bc37df836e7051a0332be&quot;&gt;b1f309f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>opencl-rs 0.1.0</title>
-		<published>2021-11-18T00:00:00+00:00</published>
-		<updated>2021-11-23T00:00:00+00:00</updated>
-		<link href="https://n3n.org/news/opencl-rs-0-1-0/" type="text/html"/>
-		<id>https://n3n.org/news/opencl-rs-0-1-0/</id>
-		<content type="html">&lt;p&gt;Opencl-rs v0.1.0 is the first public release under the banner of N3NX, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.0&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;More information for this update can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.0&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Fix api bindings from ffis and start project clinfo (&lt;a href=&quot;4cd80f3b88be604c52670147256785943c6bbb7a&quot;&gt;4cd80f3&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Fix optional in pfn_notify with few more changes (&lt;a href=&quot;9f1d353ddceba8144882a70a121678f2ee93b998&quot;&gt;9f1d353&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Support mem_object for now, add buffer later (&lt;a href=&quot;9b899d9b2b0d112e9222b6b05b8bc35352d44050&quot;&gt;9b899d9&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-rs:&lt;&#x2F;em&gt; Update repo links and n3nx project meta tags (&lt;a href=&quot;f699d685c15485440ad1c2f47f2fb002f454abe8&quot;&gt;f699d68&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;build-tools&quot;&gt;Build Tools&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;helpers:&lt;&#x2F;em&gt; Add build tools and progress api development further (&lt;a href=&quot;30cdcd27cc3fc41315a949aa8eb5ae188ca07155&quot;&gt;30cdcd2&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-rs:&lt;&#x2F;em&gt; Add readme.md and update search keywords in cargo.toml (&lt;a href=&quot;d03bb68cbac0deb11ce1f92884edb4c9deb8e51e&quot;&gt;d03bb68&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-rs:&lt;&#x2F;em&gt; Add discord links, badge color in readme.md (&lt;a href=&quot;c3e2948ecd0ea878fe059a40b0bf7e24b66391d3&quot;&gt;c3e2948&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;extra-tasks&quot;&gt;Extra Tasks&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Add opencl header dependencies (&lt;a href=&quot;e35e2b4498f0b822beca9bcc10dd4b2912612172&quot;&gt;e35e2b4&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;cliff:&lt;&#x2F;em&gt; Add N3N cliff config file for changelog generation (&lt;a href=&quot;28abcbefd5b40fa262c829762ab938447e129182&quot;&gt;28abcbe&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;memory:&lt;&#x2F;em&gt; Create memory module with its apis (&lt;a href=&quot;f8dcc26af540e7971f2d73c68ebea06312f1bc79&quot;&gt;f8dcc26&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add enums to match constants and respective datatypes (&lt;a href=&quot;e3a8561a9380fe6e85bd8d7ae85b9f9a807a637b&quot;&gt;e3a8561&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add status enums with necessary traits (&lt;a href=&quot;a43206dd715d691e35e0d66677fcc3509abcb1dd&quot;&gt;a43206d&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add platform info api with reorder of few helpers (&lt;a href=&quot;843ae237a6392ec0134220d195f4379b47a8792e&quot;&gt;843ae23&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Create APIs for command queues (&lt;a href=&quot;64d14396e6c6d7f16f2a6a8840dc5079b087db96&quot;&gt;64d1439&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add device.rs file with including its APIs (&lt;a href=&quot;9ae600aa516d8547c009e522a58fcbdce794ad5e&quot;&gt;9ae600a&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add &lt;code&gt;clGetDeviceInfo&lt;&#x2F;code&gt; interface with more datatypes (&lt;a href=&quot;3dde3f114a21540439bee5192ffb117f7557af95&quot;&gt;3dde3f1&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add more apis in device, update struct for device types (&lt;a href=&quot;38cf1434ed432102bc02c5aed139cbf8bf57e049&quot;&gt;38cf143&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add apis in context, update queue api, few minor fixes (&lt;a href=&quot;d242d4bc7df49af6dee3db119e6c1726bf9209f0&quot;&gt;d242d4b&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add buffer apis and add wrapped pointers support (&lt;a href=&quot;586e37cb634579488cf733dfb61e1585d46c5111&quot;&gt;586e37c&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add image module with its apis (&lt;a href=&quot;13f1e6e92eaa798bf148a44e5a15de9c9a86388d&quot;&gt;13f1e6e&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add image apis and fix few bugs along the way (&lt;a href=&quot;f706446835ca0238b02ce7d4c2af10daaa653b50&quot;&gt;f706446&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add pipe module with apis (&lt;a href=&quot;b418a354f290cb36630722b11f9b28b6abb51c0d&quot;&gt;b418a35&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add sampler apis with descriptive comments (&lt;a href=&quot;ee67483f12f9294d1a4d3b8e42e78b042b692458&quot;&gt;ee67483&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Map core typedefs and constants from headers (&lt;a href=&quot;8f9b71fa7aa81d1702ef59fcb708be5c25145533&quot;&gt;8f9b71f&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Map api functions from headers (&lt;a href=&quot;f2986a978aca78f901ee2014db3f287c9c12b85b&quot;&gt;f2986a9&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Optimize struct types to represent bitfields (&lt;a href=&quot;8a42643e69205de2a45aaa4b7f1c37d84c7c0753&quot;&gt;8a42643&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Improve error handling and reordering of bitfields (&lt;a href=&quot;5a28b32924fa282e04c2b1326307baeb9aba845a&quot;&gt;5a28b32&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Ffi type independency from libc (&lt;a href=&quot;eab263cf517ce445d9be77282cd768a253cebb70&quot;&gt;eab263c&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Add support for macronized objects function generators (&lt;a href=&quot;633dda3a56fef402baa644999cac08181c67b2b5&quot;&gt;633dda3&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Apply adding operation for bitfields with more changes (&lt;a href=&quot;9e3137b8f22146275c2bff2add639403d437544a&quot;&gt;9e3137b&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Macronize counting objects and object list generator (&lt;a href=&quot;673c2592892e69625717b05ddc81bc78e4f218a5&quot;&gt;673c259&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Create structures to wrap pointers for security (&lt;a href=&quot;138632eab27fee095bfc82c97dba76315062e9a7&quot;&gt;138632e&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Update cl_image_desc structure to separate versions (&lt;a href=&quot;715c71ce553b9076589c7c69dc1eb913e723234c&quot;&gt;715c71c&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;refactoring-updates&quot;&gt;Refactoring Updates&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;helpers:&lt;&#x2F;em&gt; Update helper functions to map directory (&lt;a href=&quot;47250a596b5ca34fc652c9dabeb0fe1720344af5&quot;&gt;47250a5&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-api:&lt;&#x2F;em&gt; Update error handling to support function names (&lt;a href=&quot;dbfd9bf56172c18e7bdd1214117ce83dfe73b10d&quot;&gt;dbfd9bf&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Refactor constants to match their respective types (&lt;a href=&quot;6c53eb882266b52326610ba1fd8591c259c62cdb&quot;&gt;6c53eb8&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Add and refactor constants to their types (&lt;a href=&quot;40f76d840e7e0ff703ae8b395b7efcb48b461940&quot;&gt;40f76d8&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Move ffi to separate module, add platforms support (&lt;a href=&quot;f555d7d7dceca81a75c143222eb9d2c814b6f091&quot;&gt;f555d7d&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;em&gt;opencl-heads:&lt;&#x2F;em&gt; Create section for cl ffi bindings to remain compatible (&lt;a href=&quot;178fc8d99673eef8cdf1d2a4a043050e6981934a&quot;&gt;178fc8d&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;styling&quot;&gt;Styling&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;api:&lt;&#x2F;em&gt; Format api image, memory and pipe files and add docker tests (&lt;a href=&quot;8d57ea561677e27f032152ac56318425da3a8121&quot;&gt;8d57ea5&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
+    <title>N3N - opencl</title>
+    <link href="https://n3n.org/tags/opencl/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://n3n.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-11-23T00:00:00+00:00</updated>
+    <id>https://n3n.org/tags/opencl/atom.xml</id>
+    <entry xml:lang="en">
+        <title>opencl-rs 0.1.2</title>
+        <published>2021-11-23T00:00:00+00:00</published>
+        <updated>2021-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://n3n.org/news/opencl-rs-0-1-2/" type="text/html"/>
+        <id>https://n3n.org/news/opencl-rs-0-1-2/</id>
+        
+        <summary type="html">&lt;p&gt;N3NX opencl-rs v0.1.2 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.2&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>opencl-rs 0.1.1</title>
+        <published>2021-11-21T00:00:00+00:00</published>
+        <updated>2021-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://n3n.org/news/opencl-rs-0-1-1/" type="text/html"/>
+        <id>https://n3n.org/news/opencl-rs-0-1-1/</id>
+        
+        <summary type="html">&lt;p&gt;N3NX opencl-rs v0.1.1 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.1&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>opencl-rs 0.1.0</title>
+        <published>2021-11-18T00:00:00+00:00</published>
+        <updated>2021-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://n3n.org/news/opencl-rs-0-1-0/" type="text/html"/>
+        <id>https://n3n.org/news/opencl-rs-0-1-0/</id>
+        
+        <summary type="html">&lt;p&gt;Opencl-rs v0.1.0 is the first public release under the banner of N3NX, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.0&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
 </feed>

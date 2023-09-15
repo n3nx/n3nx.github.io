@@ -1,3 +1,4 @@
 User-agent: *
+Disallow:
 Allow: /
 Sitemap: https://n3n.org/sitemap.xml
