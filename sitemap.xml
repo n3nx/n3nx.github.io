@@ -86,11 +86,7 @@
         <loc>https://n3n.org/legal/</loc>
     </url>
     <url>
-        <loc>https://n3n.org/legal/cookies/</loc>
-        <lastmod>2023-12-20</lastmod>
-    </url>
-    <url>
-        <loc>https://n3n.org/legal/privacy/</loc>
+        <loc>https://n3n.org/legal/credits/</loc>
         <lastmod>2023-12-20</lastmod>
     </url>
     <url>
@@ -234,6 +230,9 @@
     </url>
     <url>
         <loc>https://n3n.org/tags/contributor/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/credits/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/foundation/</loc>

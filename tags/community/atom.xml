@@ -7,6 +7,26 @@
     <updated>2023-12-20T00:00:00+00:00</updated>
     <id>https://n3n.org/tags/community/atom.xml</id>
     <entry xml:lang="en">
+        <title>Acknowledgement</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/credits/"/>
+        <id>https://n3n.org/legal/credits/</id>
+        
+        <summary type="html">&lt;p&gt;N3N&#x27;s success is a collaborative effort, and we extend our heartfelt appreciation to all those who have contributed to our projects. Each line of code, every suggestion, and the dedication of our community members have played a crucial role in shaping N3N. Here, we recognize and thank:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Terms of Use</title>
         <published>2021-10-08T00:00:00+00:00</published>
         <updated>2023-12-20T00:00:00+00:00</updated>
@@ -62,7 +82,7 @@
         <link rel="alternate" type="text/html" href="https://n3n.org/community/guidelines/python/"/>
         <id>https://n3n.org/community/guidelines/python/</id>
         
-        <summary type="html">&lt;p&gt;Welcome to N3N&#x27;s Python code guidelines! Adhering to these standards will help maintain consistency, readability, and best practices across our Python projects.&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;Adhering to these standards will help maintain consistency, readability, and best practices across our Python projects.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
@@ -82,7 +102,7 @@
         <link rel="alternate" type="text/html" href="https://n3n.org/community/guidelines/rust/"/>
         <id>https://n3n.org/community/guidelines/rust/</id>
         
-        <summary type="html">&lt;p&gt;Welcome to N3N&#x27;s Rust code guidelines! Follow these standards to maintain consistency, readability, and best practices across our Rust projects.&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;Follow these standards to maintain consistency, readability, and best practices across our Rust projects.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>

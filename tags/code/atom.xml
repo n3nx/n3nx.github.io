@@ -302,7 +302,7 @@
         <link rel="alternate" type="text/html" href="https://n3n.org/community/guidelines/python/"/>
         <id>https://n3n.org/community/guidelines/python/</id>
         
-        <summary type="html">&lt;p&gt;Welcome to N3N&#x27;s Python code guidelines! Adhering to these standards will help maintain consistency, readability, and best practices across our Python projects.&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;Adhering to these standards will help maintain consistency, readability, and best practices across our Python projects.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
@@ -322,7 +322,7 @@
         <link rel="alternate" type="text/html" href="https://n3n.org/community/guidelines/rust/"/>
         <id>https://n3n.org/community/guidelines/rust/</id>
         
-        <summary type="html">&lt;p&gt;Welcome to N3N&#x27;s Rust code guidelines! Follow these standards to maintain consistency, readability, and best practices across our Rust projects.&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;Follow these standards to maintain consistency, readability, and best practices across our Rust projects.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
