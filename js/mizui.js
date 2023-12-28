@@ -16,13 +16,13 @@ navbarToggle.addEventListener("click", () => {
 });
 
 // Add Background to Navbar when scrolling down below certain limit.
-window.addEventListener("scroll", () => {
-  if (window.scrollY >= 80) {
-    navbar.classList.add("navbar-bg")
-  } else {
-    navbar.classList.remove("navbar-bg")
-  }
-})
+// window.addEventListener("scroll", () => {
+//   if (window.scrollY >= 80) {
+//     navbar.classList.add("navbar-bg")
+//   } else {
+//     navbar.classList.remove("navbar-bg")
+//   }
+// })
 
 // Alert dismissible
 const alertBar = document.getElementById("alert-closable");

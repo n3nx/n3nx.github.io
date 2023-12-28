@@ -1,50 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>N3N - information</title>
-    <link href="https://n3n.org/tags/information/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://n3n.org"/>
+    <title>Freedom From Fear - information</title>
+    <link rel="self" type="application/atom+xml" href="https://n3n.org/tags/information/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://n3n.org"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2021-11-10T00:00:00+00:00</updated>
+    <updated>2023-12-20T00:00:00+00:00</updated>
     <id>https://n3n.org/tags/information/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hosting New Project</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/project-hosting/"/>
+        <id>https://n3n.org/community/project-hosting/</id>
+        
+        <summary type="html">&lt;p&gt;We&#x27;re excited to have your project hosted with us. To ensure a seamless experience for contributors, maintainers, and users, please adhere to the following guidelines:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
     <entry xml:lang="en">
         <title>About Us</title>
         <published>2021-10-08T00:00:00+00:00</published>
-        <updated>2021-11-10T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/about-us/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/about-us/"/>
         <id>https://n3n.org/foundation/about-us/</id>
         
-        <summary type="html">&lt;p&gt;Our mission is to make your security a necessity to you&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;Welcome to N3N, where innovation meets cybersecurity excellence! At N3N, we are on a mission to redefine the landscape of digital privacy and security. Our commitment to an open-source approach, coupled with a community-driven spirit, forms the foundation of our initiatives.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
         <title>Contact Us</title>
         <published>2021-10-08T00:00:00+00:00</published>
-        <updated>2021-11-10T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/contact-us/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/contact-us/"/>
         <id>https://n3n.org/foundation/contact-us/</id>
         
-        <summary type="html">&lt;p&gt;Contact N3NX for any queries&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;We&#x27;re thrilled to connect with you! Whether you have questions, suggestions, or simply want to say hello, we&#x27;d love to hear from you. Here are the various ways you can reach out to the N3N team:&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
-        <title>Key People</title>
+        <title>Cookies Policy</title>
         <published>2021-10-08T00:00:00+00:00</published>
-        <updated>2021-11-10T00:00:00+00:00</updated>
-        <author>
-          <name>Unknown</name>
-        </author>
-        <link rel="alternate" href="https://n3n.org/foundation/people/" type="text/html"/>
-        <id>https://n3n.org/foundation/people/</id>
+        <updated>2023-12-20T00:00:00+00:00</updated>
         
-        <summary type="html">&lt;p&gt;Key people who made everything possible&lt;&#x2F;p&gt;
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/cookies/"/>
+        <id>https://n3n.org/legal/cookies/</id>
+        
+        <summary type="html">&lt;p&gt;We&#x27;re thrilled to connect with you! Whether you have questions, suggestions, or simply want to say hello, we&#x27;d love to hear from you. Here are the various ways you can reach out to the N3N team:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Trademark Policy</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/privacy/"/>
+        <id>https://n3n.org/legal/privacy/</id>
+        
+        <summary type="html">&lt;p&gt;We&#x27;re thrilled to connect with you! Whether you have questions, suggestions, or simply want to say hello, we&#x27;d love to hear from you. Here are the various ways you can reach out to the N3N team:&lt;&#x2F;p&gt;
 </summary>
         
     </entry>

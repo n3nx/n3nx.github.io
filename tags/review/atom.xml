@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Freedom From Fear - review</title>
+    <link rel="self" type="application/atom+xml" href="https://n3n.org/tags/review/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://n3n.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-12-20T00:00:00+00:00</updated>
+    <id>https://n3n.org/tags/review/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Authentication and Authorization</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/authentication-authorization/"/>
+        <id>https://n3n.org/security/authentication-authorization/</id>
+        
+        <summary type="html">&lt;p&gt;Effective authentication and authorization are crucial components of a secure system. N3N employs a robust plan to ensure the integrity and confidentiality of our projects:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Continuous Improvement</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/continuous-improvement/"/>
+        <id>https://n3n.org/security/continuous-improvement/</id>
+        
+        <summary type="html">&lt;p&gt;Continuous improvement is a core principle at N3N to enhance the quality, security, and efficiency of our open-source projects. The following plan outlines key strategies for ongoing improvement:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Dynamic Application Security Testing (DAST)</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/dast/"/>
+        <id>https://n3n.org/security/dast/</id>
+        
+        <summary type="html">&lt;p&gt;Dynamic Application Security Testing (DAST) is an essential part of our security strategy to identify vulnerabilities and weaknesses in running applications. This plan outlines the key components and procedures for implementing DAST in our projects.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Dependency Scanning</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/dependency-scanning/"/>
+        <id>https://n3n.org/security/dependency-scanning/</id>
+        
+        <summary type="html">&lt;p&gt;Ensure the security of N3N open-source projects by proactively identifying and addressing vulnerabilities in project dependencies.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Encryption and Data Protection</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/encryption-data-protection/"/>
+        <id>https://n3n.org/security/encryption-data-protection/</id>
+        
+        <summary type="html">&lt;p&gt;The objective of the Encryption and Data Protection Plan is to ensure the confidentiality and integrity of sensitive data within N3N open-source projects. By implementing strong encryption measures and adopting data protection best practices, we aim to safeguard user information and maintain trust in our projects.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Incident Response Plan</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/incident-response-plan/"/>
+        <id>https://n3n.org/security/incident-response-plan/</id>
+        
+        <summary type="html">&lt;p&gt;The N3N Incident Response Plan outlines the procedures to follow in the event of a security incident. The primary goal is to minimize the impact of incidents on the confidentiality, integrity, and availability of N3N projects and data.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Monitoring and Logging</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/monitoring-logging/"/>
+        <id>https://n3n.org/security/monitoring-logging/</id>
+        
+        <summary type="html">&lt;p&gt;Effective monitoring and logging are critical components of maintaining a healthy and secure software environment. N3N follows this plan to ensure comprehensive monitoring and logging for its projects:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Secure Coding Standards</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/secure-coding-standards/"/>
+        <id>https://n3n.org/security/secure-coding-standards/</id>
+        
+        <summary type="html">&lt;p&gt;The objective of this Secure Coding Standards Plan is to establish a set of guidelines and best practices to ensure the development of secure and robust software within the N3N open-source community.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Secure Configuration Management</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/secure-configuration-management/"/>
+        <id>https://n3n.org/security/secure-configuration-management/</id>
+        
+        <summary type="html">&lt;p&gt;Effective configuration management is crucial for maintaining the security and integrity of our projects. This plan outlines the principles and practices for secure configuration management within the N3N community.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Security Auditing</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/security-audits/"/>
+        <id>https://n3n.org/security/security-audits/</id>
+        
+        <summary type="html">&lt;p&gt;The objective of the N3N Open Source Security Audits is to proactively identify and mitigate potential security vulnerabilities in our software projects, ensuring the integrity and reliability of the codebase.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Security Training</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/security-training/"/>
+        <id>https://n3n.org/security/security-training/</id>
+        
+        <summary type="html">&lt;p&gt;Security is a top priority in the N3N open-source community. This training plan is designed to ensure that all contributors have a solid understanding of security best practices. The goal is to create a culture of security awareness and proactive risk mitigation.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Static Code Analysis</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/static-code-analysis/"/>
+        <id>https://n3n.org/security/static-code-analysis/</id>
+        
+        <summary type="html">&lt;p&gt;Static Code Analysis (SCA) is a crucial component of our software development lifecycle to ensure code quality and security. The following plan outlines the key aspects of our Static Code Analysis process:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Threat Modeling</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/threat-modelling/"/>
+        <id>https://n3n.org/security/threat-modelling/</id>
+        
+        <summary type="html">&lt;p&gt;The objective of the threat modeling plan is to systematically identify potential security threats and vulnerabilities within N3N projects. This proactive approach helps us understand and mitigate risks early in the development process.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Vulnerability Disclosure Policy</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/vulnerability-disclosure/"/>
+        <id>https://n3n.org/security/vulnerability-disclosure/</id>
+        
+        <summary type="html">&lt;p&gt;At N3N, we prioritize the security of our software and systems. We appreciate the efforts of security researchers and the broader community in helping us identify and address vulnerabilities. This Vulnerability Disclosure Policy outlines the guidelines for reporting potential security issues in our projects.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Code Review Guide</title>
+        <published>2021-01-01T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/security/code-review/"/>
+        <id>https://n3n.org/security/code-review/</id>
+        
+        <summary type="html">&lt;p&gt;As a contributor, your code is a valuable asset. Effective code reviews enhance the quality and maintainability of our projects. Here&#x27;s a guide to help you navigate the code review process:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

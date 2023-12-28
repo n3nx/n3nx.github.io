@@ -14,42 +14,92 @@
     </url>
     <url>
         <loc>https://n3n.org/community/code-of-conduct/</loc>
-        <lastmod>2021-10-07</lastmod>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
-        <loc>https://n3n.org/community/members/</loc>
-        <lastmod>2021-10-07</lastmod>
+        <loc>https://n3n.org/community/commit-style-guide/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/contribute/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/contributor-terms/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/guidelines/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/guidelines/python/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/guidelines/rust/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/project-hosting/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/using-dco/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/community/vendoring/</loc>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
         <loc>https://n3n.org/foundation/</loc>
     </url>
     <url>
         <loc>https://n3n.org/foundation/about-us/</loc>
-        <lastmod>2021-11-10</lastmod>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
         <loc>https://n3n.org/foundation/code-of-conduct/</loc>
-        <lastmod>2021-10-07</lastmod>
-    </url>
-    <url>
-        <loc>https://n3n.org/foundation/commit-style-guide/</loc>
-        <lastmod>2021-10-25</lastmod>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
         <loc>https://n3n.org/foundation/contact-us/</loc>
-        <lastmod>2021-11-10</lastmod>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
-        <loc>https://n3n.org/foundation/contributing/</loc>
-        <lastmod>2021-10-05</lastmod>
+        <loc>https://n3n.org/foundation/faq/</loc>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
-        <loc>https://n3n.org/foundation/people/</loc>
-        <lastmod>2021-11-10</lastmod>
+        <loc>https://n3n.org/foundation/join-us/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/foundation/mission/</loc>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
         <loc>https://n3n.org/foundation/philosophy/</loc>
-        <lastmod>2021-10-07</lastmod>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/legal/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/legal/cookies/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/legal/privacy/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/legal/terms/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/legal/tmpolicy/</loc>
+        <lastmod>2023-12-20</lastmod>
     </url>
     <url>
         <loc>https://n3n.org/news/</loc>
@@ -82,6 +132,77 @@
         <loc>https://n3n.org/projects/</loc>
     </url>
     <url>
+        <loc>https://n3n.org/security/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/authentication-authorization/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/best-practices/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/code-review/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/continuous-improvement/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/dast/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/dependency-scanning/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/encryption-data-protection/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/incident-response-plan/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/monitoring-logging/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/reporting/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/secure-coding-standards/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/secure-configuration-management/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/security-audits/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/security-training/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/static-code-analysis/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/threat-modelling/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://n3n.org/security/vulnerability-disclosure/</loc>
+        <lastmod>2023-12-20</lastmod>
+    </url>
+    <url>
         <loc>https://n3n.org/tags/</loc>
     </url>
     <url>
@@ -91,7 +212,16 @@
         <loc>https://n3n.org/tags/api/</loc>
     </url>
     <url>
+        <loc>https://n3n.org/tags/best/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/bug/</loc>
+    </url>
+    <url>
         <loc>https://n3n.org/tags/coc/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/code/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/commit/</loc>
@@ -121,7 +251,13 @@
         <loc>https://n3n.org/tags/information/</loc>
     </url>
     <url>
-        <loc>https://n3n.org/tags/members/</loc>
+        <loc>https://n3n.org/tags/language/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/legal/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/n3nx/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/opencl/</loc>
@@ -130,10 +266,22 @@
         <loc>https://n3n.org/tags/philosophy/</loc>
     </url>
     <url>
+        <loc>https://n3n.org/tags/practices/</loc>
+    </url>
+    <url>
         <loc>https://n3n.org/tags/project/</loc>
     </url>
     <url>
+        <loc>https://n3n.org/tags/python/</loc>
+    </url>
+    <url>
         <loc>https://n3n.org/tags/release/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/reporting/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/review/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/rust/</loc>
@@ -142,7 +290,16 @@
         <loc>https://n3n.org/tags/sass/</loc>
     </url>
     <url>
+        <loc>https://n3n.org/tags/security/</loc>
+    </url>
+    <url>
         <loc>https://n3n.org/tags/style/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/terms/</loc>
+    </url>
+    <url>
+        <loc>https://n3n.org/tags/tmpolicy/</loc>
     </url>
     <url>
         <loc>https://n3n.org/tags/ui/</loc>

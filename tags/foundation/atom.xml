@@ -1,106 +1,348 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>N3N - foundation</title>
-    <link href="https://n3n.org/tags/foundation/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://n3n.org"/>
+    <title>Freedom From Fear - foundation</title>
+    <link rel="self" type="application/atom+xml" href="https://n3n.org/tags/foundation/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://n3n.org"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2021-11-10T00:00:00+00:00</updated>
+    <updated>2023-12-20T00:00:00+00:00</updated>
     <id>https://n3n.org/tags/foundation/atom.xml</id>
     <entry xml:lang="en">
         <title>Commit Style Guide</title>
         <published>2021-10-20T00:00:00+00:00</published>
-        <updated>2021-10-25T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/commit-style-guide/" type="text/html"/>
-        <id>https://n3n.org/foundation/commit-style-guide/</id>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/commit-style-guide/"/>
+        <id>https://n3n.org/community/commit-style-guide/</id>
         
         <summary type="html">&lt;p&gt;This style guide is the collection of precise rulesets that makes reviewing the Git commit messages and project history easier for everyone.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
+        <title>Hosting New Project</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/project-hosting/"/>
+        <id>https://n3n.org/community/project-hosting/</id>
+        
+        <summary type="html">&lt;p&gt;We&#x27;re excited to have your project hosted with us. To ensure a seamless experience for contributors, maintainers, and users, please adhere to the following guidelines:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>About Us</title>
         <published>2021-10-08T00:00:00+00:00</published>
-        <updated>2021-11-10T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/about-us/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/about-us/"/>
         <id>https://n3n.org/foundation/about-us/</id>
         
-        <summary type="html">&lt;p&gt;Our mission is to make your security a necessity to you&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;Welcome to N3N, where innovation meets cybersecurity excellence! At N3N, we are on a mission to redefine the landscape of digital privacy and security. Our commitment to an open-source approach, coupled with a community-driven spirit, forms the foundation of our initiatives.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
         <title>Contact Us</title>
         <published>2021-10-08T00:00:00+00:00</published>
-        <updated>2021-11-10T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/contact-us/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/contact-us/"/>
         <id>https://n3n.org/foundation/contact-us/</id>
         
-        <summary type="html">&lt;p&gt;Contact N3NX for any queries&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;We&#x27;re thrilled to connect with you! Whether you have questions, suggestions, or simply want to say hello, we&#x27;d love to hear from you. Here are the various ways you can reach out to the N3N team:&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
-        <title>Key People</title>
+        <title>Cookies Policy</title>
         <published>2021-10-08T00:00:00+00:00</published>
-        <updated>2021-11-10T00:00:00+00:00</updated>
-        <author>
-          <name>Unknown</name>
-        </author>
-        <link rel="alternate" href="https://n3n.org/foundation/people/" type="text/html"/>
-        <id>https://n3n.org/foundation/people/</id>
+        <updated>2023-12-20T00:00:00+00:00</updated>
         
-        <summary type="html">&lt;p&gt;Key people who made everything possible&lt;&#x2F;p&gt;
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/cookies/"/>
+        <id>https://n3n.org/legal/cookies/</id>
+        
+        <summary type="html">&lt;p&gt;We&#x27;re thrilled to connect with you! Whether you have questions, suggestions, or simply want to say hello, we&#x27;d love to hear from you. Here are the various ways you can reach out to the N3N team:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Trademark Policy</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/privacy/"/>
+        <id>https://n3n.org/legal/privacy/</id>
+        
+        <summary type="html">&lt;p&gt;We&#x27;re thrilled to connect with you! Whether you have questions, suggestions, or simply want to say hello, we&#x27;d love to hear from you. Here are the various ways you can reach out to the N3N team:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Terms of Use</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/terms/"/>
+        <id>https://n3n.org/legal/terms/</id>
+        
+        <summary type="html">&lt;p&gt;Welcome to the N3N Community! Before you dive into our vibrant space, please take a moment to review our Terms of Use:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Trademark Policy</title>
+        <published>2021-10-08T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/legal/tmpolicy/"/>
+        <id>https://n3n.org/legal/tmpolicy/</id>
+        
+        <summary type="html">&lt;p&gt;This Trademark Policy outlines the guidelines for the use of trademarks owned by N3N in the context of the N3N Community. These trademarks include, but are not limited to, the N3N name and the N3N Frontier Wolf logo.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
         <title>The N3N Philosophy</title>
         <published>2021-10-07T00:00:00+00:00</published>
-        <updated>2021-10-07T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/philosophy/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/philosophy/"/>
         <id>https://n3n.org/foundation/philosophy/</id>
         
-        <summary type="html">&lt;p&gt;Philosophy is the soul of an organization, ours is just a simple and kind one.&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;In the heart of our community lies the wisdom that echoes simplicity and kindness.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
-        <title>Contributor Guidelines</title>
+        <title>Contribute to N3N</title>
         <published>2021-09-21T00:00:00+00:00</published>
-        <updated>2021-10-05T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/contributing/" type="text/html"/>
-        <id>https://n3n.org/foundation/contributing/</id>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/contribute/"/>
+        <id>https://n3n.org/community/contribute/</id>
         
         <summary type="html">&lt;p&gt;The N3N division contributor guidelines is an invitation letter to all the people out there who believes in the power of technology through contribution, making lives better for everyone.&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
     <entry xml:lang="en">
+        <title>Contributor Terms</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/contributor-terms/"/>
+        <id>https://n3n.org/community/contributor-terms/</id>
+        
+        <summary type="html">&lt;p&gt;Contribute to N3N projects with the assurance that your work is appreciated, protected by clear licensing terms, and aligned with a collaborative and respectful community, as outlined in our Contributor Terms.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Guide to DCO</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/using-dco/"/>
+        <id>https://n3n.org/community/using-dco/</id>
+        
+        <summary type="html">&lt;p&gt;In the vibrant realm of open-source development, collaboration is key. To streamline contributions and ensure a harmonious coding environment, many projects adopt the Developer Certificate of Origin (DCO). This certificate, often abbreviated as DCO, serves as a guideline for contributors, fostering a culture of openness and clarity.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Vendoring Guide</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/community/vendoring/"/>
+        <id>https://n3n.org/community/vendoring/</id>
+        
+        <summary type="html">&lt;p&gt;Managing dependencies is a crucial aspect of maintaining healthy and sustainable open-source projects. This document outlines guidelines for effective vendoring in N3N projects, providing clarity on versioning, tagging, and maintaining changelogs.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>FAQ</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/faq/"/>
+        <id>https://n3n.org/foundation/faq/</id>
+        
+        <summary type="html">&lt;p&gt;Welcome to the Frequently Asked Questions (FAQ) section! Here, we&#x27;ve compiled answers to some common queries about N3N. If you can&#x27;t find what you&#x27;re looking for, feel free to ask in the relevant channel or reach out to our support.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Join Us at N3N!</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/join-us/"/>
+        <id>https://n3n.org/foundation/join-us/</id>
+        
+        <summary type="html">&lt;p&gt;Are you passionate about open source, cybersecurity, and making a positive impact in the tech community? Join us at N3N – where collaborative development meets innovation!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Our Mission</title>
+        <published>2021-09-21T00:00:00+00:00</published>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/mission/"/>
+        <id>https://n3n.org/foundation/mission/</id>
+        
+        <summary type="html">&lt;p&gt;N3N is on a mission to empower a secure digital future, fostering innovation, collaboration, and inclusivity in our community-driven pursuit of privacy and cybersecurity excellence.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Code of Conduct</title>
         <published>2021-08-08T00:00:00+00:00</published>
-        <updated>2021-10-07T00:00:00+00:00</updated>
+        <updated>2023-12-20T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/foundation/code-of-conduct/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/foundation/code-of-conduct/"/>
         <id>https://n3n.org/foundation/code-of-conduct/</id>
         
-        <summary type="html">&lt;p&gt;The N3N code of conduct are the collection of 4-clause, easy to follow guidelines to always remember with a smile.&lt;&#x2F;p&gt;
+        <summary type="html">&lt;p&gt;The N3N Community Code of Conduct weaves together four pillars for a harmonious and thriving environment:&lt;&#x2F;p&gt;
 </summary>
         
     </entry>

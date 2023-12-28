@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>N3N - api</title>
-    <link href="https://n3n.org/tags/api/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://n3n.org"/>
+    <title>Freedom From Fear - api</title>
+    <link rel="self" type="application/atom+xml" href="https://n3n.org/tags/api/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://n3n.org"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-11-23T00:00:00+00:00</updated>
     <id>https://n3n.org/tags/api/atom.xml</id>
@@ -10,10 +10,16 @@
         <title>opencl-rs 0.1.2</title>
         <published>2021-11-23T00:00:00+00:00</published>
         <updated>2021-11-23T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/news/opencl-rs-0-1-2/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/news/opencl-rs-0-1-2/"/>
         <id>https://n3n.org/news/opencl-rs-0-1-2/</id>
         
         <summary type="html">&lt;p&gt;N3NX opencl-rs v0.1.2 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.2&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
@@ -24,10 +30,16 @@
         <title>opencl-rs 0.1.1</title>
         <published>2021-11-21T00:00:00+00:00</published>
         <updated>2021-11-23T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/news/opencl-rs-0-1-1/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/news/opencl-rs-0-1-1/"/>
         <id>https://n3n.org/news/opencl-rs-0-1-1/</id>
         
         <summary type="html">&lt;p&gt;N3NX opencl-rs v0.1.1 brings new changes with this update, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.1&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
@@ -38,10 +50,16 @@
         <title>opencl-rs 0.1.0</title>
         <published>2021-11-18T00:00:00+00:00</published>
         <updated>2021-11-23T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://n3n.org/news/opencl-rs-0-1-0/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://n3n.org/news/opencl-rs-0-1-0/"/>
         <id>https://n3n.org/news/opencl-rs-0-1-0/</id>
         
         <summary type="html">&lt;p&gt;Opencl-rs v0.1.0 is the first public release under the banner of N3NX, repo link &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;n3nx&#x2F;opencl-rs&#x2F;releases&#x2F;tag&#x2F;v0.1.0&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
